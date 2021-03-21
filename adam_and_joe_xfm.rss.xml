@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Adam and Joe XFM</title>
+<link>https://www.adamandjoearchive.org/XFM/<link>
+<language>en-us</language>
+<itunes:subtitle>Adam and Joe</itunes:subtitle>
+<itunes:author>Adam and Joe</itunes:author>
+<itunes:summary>Adam and Joe.</itunes:summary>
+<description>Adam and Joe</description>
+<itunes:owner>
+    <itunes:name>Owner Name</itunes:name>
+    <itunes:email>me@example.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://www.example.com/podcast-icon.jpg" />
+<itunes:category text="Category Name"/></itunes:category>
+
+        <item>
+            <title>30-08-2003</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202003.08.30.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Aug 2003 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>4f71dc3a-2c07-4953-9f1e-b8e715cd779b</guid>
+        </item> 
+    
+
+        <item>
+            <title>20-09-2003</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202003.09.20.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 20 Sep 2003 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ee57c7e8-4bf5-4d26-a4a7-df37b8d19d0a</guid>
+        </item> 
+    
+
+        <item>
+            <title>04-10-2003</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202003.10.04.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 04 Oct 2003 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ad8808b8-4d40-4617-b9f9-9007da015780</guid>
+        </item> 
+    
+
+        <item>
+            <title>27-03-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.03.27%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 27 Mar 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>e62fd2b9-699b-44ec-8aae-9ed83d39c118</guid>
+        </item> 
+    
+
+        <item>
+            <title>17-04-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.04.17%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 17 Apr 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>8ba61274-51d9-4326-a24c-68aa88aaa3a4</guid>
+        </item> 
+    
+
+        <item>
+            <title>01-05-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.05.01%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 01 May 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>c9b326ba-1709-4a29-9231-6ee06728604e</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-05-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.05.08%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 May 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>fac714d9-9938-4843-b487-a57162769725</guid>
+        </item> 
+    
+
+        <item>
+            <title>15-05-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.05.15%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 15 May 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>b7617800-97d6-4c81-b44d-8f08cf0f2ad2</guid>
+        </item> 
+    
+
+        <item>
+            <title>12-06-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.06.12%20%2896k%20incomplete%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 12 Jun 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>2e6a9612-8775-4c9a-b386-54fabdcb42b3</guid>
+        </item> 
+    
+
+        <item>
+            <title>02-10-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.10.02.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 02 Oct 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>abfadfa3-55ba-4313-b98f-abda32323bb6</guid>
+        </item> 
+    
+
+        <item>
+            <title>23-10-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.10.23.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 23 Oct 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a6019b71-4f22-4bc7-9221-240bf35e856f</guid>
+        </item> 
+    
+
+        <item>
+            <title>30-10-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.10.30%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Oct 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a1e11563-eca9-48ba-9b06-bad85ffc42ad</guid>
+        </item> 
+    
+
+        <item>
+            <title>06-11-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.11.06%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 06 Nov 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>2f44883b-3414-46fd-b44b-7c2606f8e69b</guid>
+        </item> 
+    
+
+        <item>
+            <title>13-11-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.11.13%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 13 Nov 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>c38a6cc5-5564-4a86-a3e4-a361e4100318</guid>
+        </item> 
+    
+
+        <item>
+            <title>20-11-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.11.20%20%2896k%20incomplete%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 20 Nov 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a6b4a324-fc3b-4e66-89cb-37b6aabd5079</guid>
+        </item> 
+    
+
+        <item>
+            <title>11-12-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.12.11%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 11 Dec 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>7b23d273-9619-4ab6-943d-7809de2d845b</guid>
+        </item> 
+    
+
+        <item>
+            <title>18-12-2004</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202004.12.18%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 18 Dec 2004 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>90319f19-fe0e-40bc-a1b8-0dc9d834a2f3</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-01-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.01.08%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 Jan 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>00aa49ef-e581-4fc4-9637-6b0bbc6e9a34</guid>
+        </item> 
+    
+
+        <item>
+            <title>22-01-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.01.22%20%2896k%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 22 Jan 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>6d91970a-6380-42d6-94f8-d0db49d9f240</guid>
+        </item> 
+    
+
+        <item>
+            <title>29-01-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.01.29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 29 Jan 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>23d98a5a-3bdb-4ac7-931a-f5cc9cd7ef28</guid>
+        </item> 
+    
+
+        <item>
+            <title>05-02-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.02.05.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 05 Feb 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>78887a96-3c80-41a3-aa90-b5da49c2b59f</guid>
+        </item> 
+    
+
+        <item>
+            <title>19-02-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.02.19.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 19 Feb 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>81369efd-5e33-4f7f-80d6-36c0ff635fb4</guid>
+        </item> 
+    
+
+        <item>
+            <title>26-02-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.02.26.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 26 Feb 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ee3805da-30db-469b-b720-89def26601be</guid>
+        </item> 
+    
+
+        <item>
+            <title>05-03-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.03.05.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 05 Mar 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>1fe7b506-0c6f-4350-87de-fe63a1c576b4</guid>
+        </item> 
+    
+
+        <item>
+            <title>12-03-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.03.12.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 12 Mar 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>d80a6576-3faa-44aa-95ad-679fde917409</guid>
+        </item> 
+    
+
+        <item>
+            <title>19-03-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.03.19.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 19 Mar 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>6ff8b7c1-452e-4559-b3ff-9c349ebf745d</guid>
+        </item> 
+    
+
+        <item>
+            <title>02-04-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.04.02.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 02 Apr 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ec340d6d-080e-40e0-a002-ccc0fb1507b0</guid>
+        </item> 
+    
+
+        <item>
+            <title>16-04-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.04.16.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 16 Apr 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>5ae9fce2-602b-418e-9650-633f505e582c</guid>
+        </item> 
+    
+
+        <item>
+            <title>23-04-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.04.23.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 23 Apr 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>840647ed-eef7-4894-af11-ed63ca04fbe9</guid>
+        </item> 
+    
+
+        <item>
+            <title>30-04-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.04.30.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Apr 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>72dd936d-b270-4af9-b857-496b2825cc2e</guid>
+        </item> 
+    
+
+        <item>
+            <title>07-05-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.05.07.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 07 May 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>196a82d4-2e88-4bb8-9ff4-91e16762b957</guid>
+        </item> 
+    
+
+        <item>
+            <title>14-05-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.05.14.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 14 May 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>b4bbd515-9d59-4096-a57d-a9682e8f3ece</guid>
+        </item> 
+    
+
+        <item>
+            <title>21-05-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.05.21.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 21 May 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>f7f3f962-6c05-48e1-887f-4cb03f2abdce</guid>
+        </item> 
+    
+
+        <item>
+            <title>17-09-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.09.17.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 17 Sep 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>261fafe7-22c4-41ba-a45e-42480543fa36</guid>
+        </item> 
+    
+
+        <item>
+            <title>24-09-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.09.24.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 24 Sep 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>b15df29f-2a52-4e49-aef9-2279200eb1de</guid>
+        </item> 
+    
+
+        <item>
+            <title>01-10-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.10.01.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 01 Oct 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>40d44ae2-10c3-46cd-b91f-3abd889a4c2d</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-10-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.10.08.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 Oct 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>27bc0d37-fc2b-4255-8a9f-5933af0e704f</guid>
+        </item> 
+    
+
+        <item>
+            <title>15-10-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.10.15.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 15 Oct 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a182cc07-fb51-4e00-aae1-12e9b19040dc</guid>
+        </item> 
+    
+
+        <item>
+            <title>22-10-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.10.22.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 22 Oct 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>439544f4-b0a2-446c-8d73-ded6c8106295</guid>
+        </item> 
+    
+
+        <item>
+            <title>29-10-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.10.29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 29 Oct 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>323e40e6-98f9-472c-ab17-3270cc8b84c9</guid>
+        </item> 
+    
+
+        <item>
+            <title>05-11-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.11.05.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 05 Nov 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>b9756374-a058-4ee0-8950-2e7b054f77fd</guid>
+        </item> 
+    
+
+        <item>
+            <title>12-11-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.11.12.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 12 Nov 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>5c9a11eb-1296-4f3e-941a-876a117847ad</guid>
+        </item> 
+    
+
+        <item>
+            <title>19-11-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.11.19.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 19 Nov 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>8f1cd8f8-62bf-4f80-9f1e-b129369f0f67</guid>
+        </item> 
+    
+
+        <item>
+            <title>26-11-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.11.26.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 26 Nov 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>4508f14c-3da1-4cb2-9db3-fdef2495644f</guid>
+        </item> 
+    
+
+        <item>
+            <title>03-12-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.12.03.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 03 Dec 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>1c0b6f3e-a2cb-4ce8-a5e1-6455563ac79b</guid>
+        </item> 
+    
+
+        <item>
+            <title>10-12-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.12.10.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 10 Dec 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>8ea27c58-632b-4e18-b8c7-e57231c3d3c0</guid>
+        </item> 
+    
+
+        <item>
+            <title>17-12-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.12.17.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 17 Dec 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>85115a30-2dc4-423f-bbcb-a553e41d6eee</guid>
+        </item> 
+    
+
+        <item>
+            <title>24-12-2005</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202005.12.24.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 24 Dec 2005 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>6ddbfad8-5981-414c-950e-1fa0681ba736</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-07-08%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a197e1f8-7b91-41d2-ab9e-04c70e8683a1</guid>
+        </item> 
+    
+
+        <item>
+            <title>15-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-07-15%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 15 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>c917016c-6c64-48c4-a8c0-e537745b26bc</guid>
+        </item> 
+    
+
+        <item>
+            <title>22-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-07-22%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 22 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>681b160d-4cf1-44a6-ac8a-a47b7bda8985</guid>
+        </item> 
+    
+
+        <item>
+            <title>29-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-07-29%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 29 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>34d4142e-092e-40ac-b87f-b3f3710c3091</guid>
+        </item> 
+    
+
+        <item>
+            <title>05-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-08-05%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 05 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>cbed94d2-d970-4ffa-b6f8-71c3f864a46d</guid>
+        </item> 
+    
+
+        <item>
+            <title>12-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-08-12%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 12 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>2f3322b9-6ca1-4e0f-94d9-959972bffbd7</guid>
+        </item> 
+    
+
+        <item>
+            <title>19-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-08-19%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 19 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>9b88861e-a0c2-4274-b01a-a517b088524d</guid>
+        </item> 
+    
+
+        <item>
+            <title>26-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-08-26%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 26 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>c39e2687-4b35-4784-940f-af0ebe844f32</guid>
+        </item> 
+    
+
+        <item>
+            <title>02-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-09-02%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 02 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>eb489874-6ee8-4c7a-b286-2535555aef60</guid>
+        </item> 
+    
+
+        <item>
+            <title>09-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-09-09%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 09 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>4586b40d-a645-4087-8f88-8c52c6260158</guid>
+        </item> 
+    
+
+        <item>
+            <title>16-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-09-16%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 16 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>8b3ca866-7e4b-4f82-afd0-680bf04d1d52</guid>
+        </item> 
+    
+
+        <item>
+            <title>23-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-09-23%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 23 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>cbd8d675-87f0-4565-bca2-30cf25cecf4f</guid>
+        </item> 
+    
+
+        <item>
+            <title>30-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-09-30%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ecaba45b-4810-4f05-8f96-7d24099464bf</guid>
+        </item> 
+    
+
+        <item>
+            <title>30-12-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006-12-30.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Dec 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>b3d3c3dc-15fe-47fd-9c49-5352d05d2189</guid>
+        </item> 
+    
+
+        <item>
+            <title>07-01-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.01.07.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 07 Jan 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>17d80945-61de-4802-8a55-13cb604aca1a</guid>
+        </item> 
+    
+
+        <item>
+            <title>14-01-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.01.14.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 14 Jan 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>5f8e2bff-b0ba-4008-903e-377bea0e3922</guid>
+        </item> 
+    
+
+        <item>
+            <title>21-01-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.01.21.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 21 Jan 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>ffc84ea9-a5a3-48ec-9700-be956da5f002</guid>
+        </item> 
+    
+
+        <item>
+            <title>28-01-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.01.28.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 28 Jan 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>754668fb-0f1c-4c79-b9cc-b6e9bfe7f09b</guid>
+        </item> 
+    
+
+        <item>
+            <title>04-02-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.02.04.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 04 Feb 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>d9e2db16-3d8c-46f8-9278-615b51fd0276</guid>
+        </item> 
+    
+
+        <item>
+            <title>11-02-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.02.11.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 11 Feb 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>450d1dda-1b0c-4971-a1c3-f2271b449478</guid>
+        </item> 
+    
+
+        <item>
+            <title>18-02-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.02.18.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 18 Feb 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>a31b8878-0168-4c68-82fb-7e461b83c4fe</guid>
+        </item> 
+    
+
+        <item>
+            <title>25-02-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.02.25.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 25 Feb 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>65b85129-3d3e-4238-9731-6e3d8168eb11</guid>
+        </item> 
+    
+
+        <item>
+            <title>04-03-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.03.04.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 04 Mar 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>dce713db-d634-4f7c-810a-34490855efed</guid>
+        </item> 
+    
+
+        <item>
+            <title>11-03-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.03.11.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 11 Mar 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>43f48db5-6fe6-48c2-8fe4-87f57777469d</guid>
+        </item> 
+    
+
+        <item>
+            <title>18-03-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.03.18.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 18 Mar 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>e4cb04fd-0f5c-41ee-a952-d22c0d891ac4</guid>
+        </item> 
+    
+
+        <item>
+            <title>25-03-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.03.25.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 25 Mar 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>3afd1e24-0be9-44c6-8ded-a2d2dd3e472c</guid>
+        </item> 
+    
+
+        <item>
+            <title>01-04-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.04.01.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 01 Apr 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>bcfd657c-9080-4aac-95a3-ecd42e229d09</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-04-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.04.08.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 Apr 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>d300a61b-d1cd-4adb-824e-ee43323a9009</guid>
+        </item> 
+    
+
+        <item>
+            <title>08-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.07.08%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 08 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>47a1ffd1-d1e2-42d7-8185-58611dc4dbc1</guid>
+        </item> 
+    
+
+        <item>
+            <title>15-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.07.15%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 15 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>73d3132e-a338-4ba9-9e85-4afde5abb6af</guid>
+        </item> 
+    
+
+        <item>
+            <title>22-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.07.22%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 22 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>71269c52-38f0-4c13-9574-4a2de2dc5ebb</guid>
+        </item> 
+    
+
+        <item>
+            <title>29-07-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.07.29%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 29 Jul 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>e57b465d-ccc0-463f-901d-75355175b5da</guid>
+        </item> 
+    
+
+        <item>
+            <title>05-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.08.05%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 05 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>45b4dc4c-55ee-4ec9-b047-b064bae5c681</guid>
+        </item> 
+    
+
+        <item>
+            <title>12-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.08.12%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 12 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>13168227-f7aa-4976-9a22-456a9eda6fa4</guid>
+        </item> 
+    
+
+        <item>
+            <title>19-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.08.19%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 19 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>fd450a13-11b7-48b8-bf60-0850dcdded70</guid>
+        </item> 
+    
+
+        <item>
+            <title>26-08-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.08.26%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 26 Aug 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>2b7e7fb5-e78b-492b-aef5-88ed93f76d6d</guid>
+        </item> 
+    
+
+        <item>
+            <title>02-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.09.02%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 02 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>5df98be3-70b6-4408-9777-25783fd2f6ca</guid>
+        </item> 
+    
+
+        <item>
+            <title>09-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.09.09%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 09 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>2202cd28-988b-4991-952e-40767e9daab0</guid>
+        </item> 
+    
+
+        <item>
+            <title>16-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.09.16%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 16 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>0948c778-88bc-4e40-8547-cf05e1857bb2</guid>
+        </item> 
+    
+
+        <item>
+            <title>23-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.09.23%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 23 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>8f9a35e6-a528-4350-89f7-82f65eeefdb2</guid>
+        </item> 
+    
+
+        <item>
+            <title>30-09-2006</title>
+            <itunes:summary>Adam and Joe</itunes:summary>
+            <description>Adam and Joe</description>
+            <link>https://www.adamandjoearchive.org/XFM/</link>
+            <enclosure url="https://www.adamandjoearchive.org/XFM/Adam%20and%20Joe%20-%20XFM%20-%202006.09.30%20%28edit%29.mp3" type="audio/mpeg" length="1024"></enclosure>
+            <pubDate>Sat, 30 Sep 2006 00:00:00 -0000</pubDate>
+            <itunes:author>Adam and Joe</itunes:author>
+            
+            <itunes:explicit>no</itunes:explicit>
+            <guid>22f2494b-8ab3-4460-8550-7a2d2a7ba177</guid>
+        </item> 
+    
+   
+</channel>
+</rss>
+
